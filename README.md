@@ -4,13 +4,44 @@
 ### Using Unity 5.0 or higher
 ### Install Git LFS
 
+## Team Member Instructions
 
-## Create the Repository (for team leader)
 
-Install Git LFS (goto Git LFS Section)
+
+
+
+## Team Leader Instructions
+
+Install Git LFS (goto Install Git LFS Section)
+
+Create Unity project
+
+Go to Edit → Project Settings → Editor
+Change Version Control Mode to Visible Meta Files
+Change Asset Serialization Mode to Force Text
+
+Save Project and Scene
+
+Goto Github Desktop and 
+
+Click Add
+Chose Project Folders
+Click create a repository
+Click create a repository again
+
+** Important **
+
+* Goto "Visual Studio Code"
+* Goto File Open Folder then Goto Project Folder
+* Copy over the .gitattributes file in this repo into the project folders from the Github repo in RAW
+* Copy over the .gitignore files in this repo into the project folder from the Githuyb repo in RAW
+
+
+
+
+
 
 ## Install GIT LFS
-
 
 Windows Users:
 * goto [Click Here](https://git-lfs.github.com/)
