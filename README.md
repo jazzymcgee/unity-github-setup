@@ -4,7 +4,7 @@
 ### Using Unity 5.0 or higher
 ### Install Git LFS
 
-## Team Member Instructions
+## Team Member Setup Instructions
 
 * Open an [Github account](https://github.com/)
 * Download GitHub desktop [Click Here](https://desktop.github.com/)
@@ -18,6 +18,9 @@
 * Click "Clone"
 * GitHub Desktop then opens
 * Click "Sync" (Top Right) to update project
+* Open Unity, go to folder where project was cloned
+* Select, and open 
+* You can now edit the project
 
 
 
