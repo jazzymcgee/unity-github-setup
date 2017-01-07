@@ -17,6 +17,7 @@
 * Choose where you will save (Clone) this project folder (Don't Change folder name!)
 * Click "Clone"
 * GitHub Desktop then opens
+* Click "Sync" (Top Right) to update project
 
 
 
