@@ -6,6 +6,8 @@
 
 ## Team Member Instructions
 
+* Open an [Github account](https://github.com/)
+* Share Username with Team Leader
 
 
 
