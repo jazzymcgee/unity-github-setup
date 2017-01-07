@@ -9,16 +9,20 @@
 
 Install Git LFS (goto Git LFS Section)
 
-* Windows User goto [Click Here](https://git-lfs.github.com/)
-* Goto Terminal and type `git lfs install`
+## Install GIT LFS
 
-Mac Users 
+
+Windows Users:
+* goto [Click Here](https://git-lfs.github.com/)
+* Download GitBash [Click Here](https://git-for-windows.github.io/)
+* Goto GitBash and type `git lfs install`
+
+Mac Users:
 * goto [Click Here](https://git-lfs.github.com/) 
 * Goto Terminal and type `brew install git-lfs` 
 
 
 
-## Install GIT LFS
 
 
 
