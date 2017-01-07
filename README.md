@@ -7,7 +7,16 @@
 ## Team Member Instructions
 
 * Open an [Github account](https://github.com/)
-* Share Username with Team Leader
+* Download GitHub desktop [Click Here](https://desktop.github.com/)
+* Install Git LFS (goto Install Git LFS Section)
+* Share GitHub Username with Team Leader
+* Leader will send email invite to you, click view invitation
+* This takes you to GitHub Repo (Repository) where the project files reside
+* Go to green "Clone Or Download" button
+* Click "Open In Desktop"
+* Choose where you will save (Clone) this project folder (Don't Change folder name!)
+* Click "Clone"
+* GitHub Desktop then opens
 
 
 
@@ -53,11 +62,11 @@ Click create a repository again
 Windows Users:
 * goto [Click Here](https://git-lfs.github.com/)
 * Download GitBash [Click Here](https://git-for-windows.github.io/)
-* Goto GitBash and type `git lfs install`
+* Goto GitBash and type `git lfs install` and press enter
 
 Mac Users:
 * goto [Click Here](https://git-lfs.github.com/) 
-* Goto Terminal and type `brew install git-lfs` 
+* Goto Terminal and type `brew install git-lfs` and press enter
 
 
 
