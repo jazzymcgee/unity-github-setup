@@ -33,8 +33,13 @@ Click create a repository again
 
 * Goto "Visual Studio Code"
 * Goto File Open Folder then Goto Project Folder
-* Copy over the .gitattributes file in this repo into the project folders from the Github repo in RAW
-* Copy over the .gitignore files in this repo into the project folder from the Githuyb repo in RAW
+* Copy OVER the .gitattributes file in [this repo](https://raw.githubusercontent.com/jazzymcgee/unity-github-setup/master/.gitattributes) into the project folders from the Github repo in RAW
+* Copy OVER the .gitignore files in [this repo](https://raw.githubusercontent.com/jazzymcgee/unity-github-setup/master/.gitignore) into the project folder from the Githuyb repo in RAW
+
+* Now Enter Summary "First Commit" then Commit
+* Click Publish making sure you have click your account
+
+* Add Colloborators under Settings in the Github repo of your project
 
 
 
