@@ -22,8 +22,13 @@
 * Select, and open 
 * You can now edit the project
 
+## Using GitHub
 
-
+* When making changes to the project/game, keep GitHub desktop and GitHub web open
+* Whenver you save (should be very regularly), go to GitHub desktop, and put a summary in the "Changes" of what you have done
+* Click "Commit To Master"
+* Click "Sync"
+* Not only will you have pushed up your changes, but you will also have recieved all the changes everyone else has made
 
 ## Team Leader Instructions
 
