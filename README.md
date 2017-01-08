@@ -12,7 +12,9 @@ Because in Game Development we use large assets we need Large File Storage
 
 ## Team Member Setup Instructions
 
-* Open an [Github account](https://education.github.com/)
+* Open an [Github account](https://github.com/) then 
+* Apple for a Free an [Github account](https://education.github.com/)
+* Use the normal one for now while you wait for the Education Account
 * Download GitHub desktop [Click Here](https://desktop.github.com/)
 * Install Git LFS (goto Install Git LFS Section)
 * Share GitHub Username with Team Leader
