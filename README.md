@@ -1,12 +1,13 @@
 # Using Unity with Github and Github LFS
 
 ## First of All What Is Github?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
+A Way for All of us To Work on our Game Code no matter where we are
+[Github Youtube Video with Explanation](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 ## Second, What is Github LFS?
 Because in Game Development we use large assets we need Large File Storage
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_11d1ZsEZ8g" frameborder="0" allowfullscreen></iframe>
 
+[Github LFS Youtube Video with Explanation](https://www.youtube.com/watch?v=_11d1ZsEZ8g)
 
 ## Team Member Setup Instructions
 
