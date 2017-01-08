@@ -1,8 +1,12 @@
 # Using Unity with Github and Github LFS
 
-### Git installed
-### Using Unity 5.0 or higher
-### Install Git LFS
+## First of All What Is Github?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
+
+## Second, What is Github LFS?
+Because in Game Development we use large assets we need Large File Storage
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_11d1ZsEZ8g" frameborder="0" allowfullscreen></iframe>
+
 
 ## Team Member Setup Instructions
 
