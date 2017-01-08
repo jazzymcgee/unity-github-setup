@@ -6,7 +6,7 @@
 
 ## Team Member Setup Instructions
 
-* Open an [Github account](https://github.com/)
+* Open an [Github account](https://education.github.com/)
 * Download GitHub desktop [Click Here](https://desktop.github.com/)
 * Install Git LFS (goto Install Git LFS Section)
 * Share GitHub Username with Team Leader
